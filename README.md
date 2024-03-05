@@ -1,1 +1,2 @@
 # CodebarWorkshop
+Chiara Pigoni
