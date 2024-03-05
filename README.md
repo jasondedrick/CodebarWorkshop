@@ -1,3 +1,3 @@
 # CodebarWorkshop
-Chiara Pigoni
 Adam Drummond
+Mexitli Lopez Rios
